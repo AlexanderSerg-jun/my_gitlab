@@ -8,3 +8,7 @@
 ### Решение 
 1. `Gitlab развернут`
 ![Авторизация в git](https://github.com/AlexanderSerg-jun/my_gitlab/blob/main/img/main.png)`
+2. `Проект и репозиторий`
+![Проект и репозиторий ](https://github.com/AlexanderSerg-jun/my_gitlab/blob/main/img/project.png)`
+3. `gitlab_ runner`
+![gitlab_ runner ](https://github.com/AlexanderSerg-jun/my_gitlab/blob/main/img/runner.png)`
