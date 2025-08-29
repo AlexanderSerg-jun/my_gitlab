@@ -21,5 +21,7 @@
 - `файл gitlab-ci.yml для своего проекта или вставьте код в соответствующее поле в шаблоне;`
 - `скриншоты с успешно собранными сборками.`
 ### Решение
-1. 'Запушил'
+1. `Запушил`
 ![push ](https://github.com/AlexanderSerg-jun/my_gitlab/blob/main/img/push.png)`
+2. `Сборка`
+![sborka ](https://github.com/AlexanderSerg-jun/my_gitlab/blob/main/img/sborka.png)`
